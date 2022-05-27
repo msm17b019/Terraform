@@ -1,3 +1,3 @@
 output "url" {
-    value = join(":",["http://localhost",var.external_port])
+  value = join(":", ["http://localhost", var.external_port])
 }

@@ -1,1 +1,1 @@
-Nginx server is created using Terraform.
+Local nginx server is created on docker container using Terraform.
